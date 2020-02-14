@@ -16,6 +16,7 @@ end
 
 
   class PartnerError < StandardError
+    
   end
 end
 
